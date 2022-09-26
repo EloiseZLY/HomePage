@@ -1,0 +1,22 @@
+{
+  "name": "homepage",
+  "version": "1.0.0",
+  "description": "Lingyi Zheng's first home page",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EloiseZLY/HomePage.git"
+  },
+  "keywords": [
+    "web"
+  ],
+  "author": "Lingyi Zheng",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EloiseZLY/HomePage/issues"
+  },
+  "homepage": "https://github.com/EloiseZLY/HomePage#readme"
+}
